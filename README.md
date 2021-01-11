@@ -14,7 +14,7 @@ Client:
 2. Visual Studio Code for compilation, or IDE of your choice (Used VSCodium on Linux)
 If using any other IDE then you have to regenerate project files as there is only Visual Studio Code compatible project file.
 
-If want to use client only you need to send json to URL and Port (which will be 127.0.0.1:8080/ by default)
+If want to use server only you need to send json to URL and Port (which will be 127.0.0.1:8080/ by default)
 json must contain this data
 ```yaml
 {
