@@ -26,7 +26,7 @@ json must contain this data
 ```
 
 ## Description
-My friend is streaming using Trovo service (website: https://trovo.live) and he is also making games using Unreal Engine 4. He manually input random follower name into a text box which is displayed while he is playing the game he made. He didn't have time to automate this, so naturally i automated this process. But Trovo does not have any kind of API to get follower list, hence the scruber.  
+My friend is streaming using Trovo service (website: https://trovo.live) and he is also making games using Unreal Engine 4. He manually input random follower name into a text box which is displayed while he is playing the game he made. He didn't have time to automate this, so naturally i automated this process. But Trovo does not have any kind of API to get follower list, hence the scraper.  
 
 ### Making It Run
 
