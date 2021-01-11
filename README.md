@@ -32,9 +32,9 @@ My friend is streaming using Trovo service (website: https://trovo.live) and he 
 
 executing file main.py will run server on 127.0.0.1:8080/
 
-inside Unreal Engine project edit function arguments inside "InitServerData". ServerURL and Port must match the URL and Port from the server. 
-Input broadcaster name, which is empty for now
-Input Followe Count, and make sure it is less then current followers broadcaster has. I did not test with number above current folowers count and have no idea what will happend
+Inside Unreal Engine project edit function arguments inside "InitServerData". ServerURL and Port must match the URL and Port from the server. 
+Input Broadcaster Name, which is empty for now.
+Input Follower Count, and make sure it is less then current followers broadcaster has. I did not test with number above current folowers count and have no idea what will happend.
 
 If you get everything right this is the outcome:
 [![Watch the video](https://img.youtube.com/vi/dMSLNR9mPzs/maxresdefault.jpg)](https://youtu.be/dMSLNR9mPzs)
