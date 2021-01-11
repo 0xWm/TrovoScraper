@@ -4,7 +4,7 @@ Get a list of followers from broadcasters channel
 
 ## Getting Started
 
-###In order to start this you need:
+### In order to start this you need:
 
 Server:
 1. Python 3 (used python 3.8.5)
