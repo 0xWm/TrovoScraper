@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00046AF7-08D8-AACC-CC12-DAB699842ABB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TrovoScruberClient",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
