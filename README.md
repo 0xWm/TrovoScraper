@@ -10,7 +10,7 @@ Server:
 1. Python 3 (used python 3.8.5)
 
 Client:
-1. Unreal Engine 4.25 (usedn Unreal Engine 4.25.4)
+1. Unreal Engine 4.25 (used Unreal Engine 4.25.4)
 2. Visual Studio Code for compilation, or IDE of your choice (Used VSCodium on Linux)
 If using any other IDE then you have to regenerate project files as there is only Visual Studio Code compatible project file. 
 
